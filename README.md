@@ -3,5 +3,5 @@
 
  ### Screenshots :star:
 
-<img src="screenshots/1633632672854.png" height="300em" />
-<img src="screenshots/1633632764987.png" height="300em" />
+<img src="screenshots/1633632672854.png"/>
+<img src="screenshots/1633632764987.png"/>
