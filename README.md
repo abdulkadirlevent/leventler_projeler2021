@@ -1,5 +1,10 @@
 # leventler_projeler2021
+ 
  Laravel Livewire app example
+ 
+ ### VERILEN DATABASE SQL KODLARINI KULLANARAK DB OLUŞTURUN
+ ### LARAVEL_APP_SQL.sql
+ 
 
  ### Screenshots :star:
 
@@ -13,4 +18,5 @@
 <img src="screenshots/11633633012288.png"/>
 <img src="screenshots/1633633054271.png"/>
 <img src="screenshots/1633633075593.png"/>
+<img src="screenshots/1633633100222.png"/>
 <img src="screenshots/1633633100222.png"/>
