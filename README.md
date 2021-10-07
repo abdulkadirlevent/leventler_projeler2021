@@ -1,5 +1,10 @@
 # leventler_projeler2021
+ 
  Laravel Livewire app example
+ 
+ ### VERILEN DATABASE SQL KODLARINI KULLANARAK DB OLUŞTURUN
+ ### LARAVEL_APP_SQL.sql
+ 
 
  ### Screenshots :star:
 
