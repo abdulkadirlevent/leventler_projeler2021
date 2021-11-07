@@ -30,6 +30,8 @@ class CariProjelersController extends Controller
         return new ProjelerCollection($projelers);
     }
 
+
+
     /**
      * @param \Illuminate\Http\Request $request
      * @param \App\Models\Cari $cari
